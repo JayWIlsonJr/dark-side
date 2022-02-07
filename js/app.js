@@ -1,0 +1,1 @@
+alert('Welcome to the dark side, you must be 18 to view this site.');
